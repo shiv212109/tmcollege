@@ -1,2 +1,0 @@
-# tmcollege
-tmcollege website
